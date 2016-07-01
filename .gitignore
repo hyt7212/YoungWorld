@@ -1,6 +1,28 @@
-#忽略所有文件，注意放在开头
-/*
-#追踪以下文件和文件夹
-!/.gitignore
-!/Assets
-!/ProjectSettings
+# ---------------[ Unity generated ]------------------ #
+/Temp
+/obj
+/UnityGenerated
+/Library
+ 
+# ----[ Visual Studio / MonoDevelop generated ]------- #
+ 
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# -------------[ OS generated ]------------------------ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
